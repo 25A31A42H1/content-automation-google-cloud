@@ -4,9 +4,10 @@
 This project automates content creation and publishing using Google Cloud services integrated through Make.com.
 
 ## Google Technologies Used
-- Google Cloud Platform – Backend processing
-- Google Sheets – Content & schedule storage
-- Gmail – Notification system
+-- Google Cloud- for API keys
+- Google Sheets- for content source link
+- Gemini - for content summarising and personalising
+
 
 ## Workflow
 1. Content entered in Google Sheets
